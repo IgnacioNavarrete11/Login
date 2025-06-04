@@ -53,8 +53,9 @@ body, html {
     border-bottom: 1px solid #eee;
 }
 .sidebar-logo {
-    width: 48px;
-    height: 48px;
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
     margin-right: 10px;
 }
 .company-name {
